@@ -75,7 +75,7 @@ plt.xlabel("Actual Price")
 plt.ylabel("Predicted Price")
 plt.title("Linear vs Polynomial Regression")
 plt.legend()
-plt.show()
+plt.show() 
 ```
 
 ## Output:
